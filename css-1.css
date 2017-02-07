@@ -8,7 +8,10 @@ li strong {
 	border: 1px dotted black;
 	padding: 10px;
 }
-
+#side1{
+	text-align: center;
+		color: #f00;
+}
 .center{
 	text-align: center;
 	color: #f00;
