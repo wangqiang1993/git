@@ -1,13 +1,4 @@
-qwerewrfesdfsdfsd
-sdfsd
-22222
-4444
-5555
-2222qweqw
-22werw.gert
-qweqwerwee222erter
-3242342reter
-3333
-44444
-5555
-1000
+2
+3
+4
+5
