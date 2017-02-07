@@ -1,0 +1,26 @@
+strong{
+	color: 	blue;
+}
+li strong {
+	color: red;
+}
+#side {
+	border: 1px dotted black;
+	padding: 10px;
+}
+
+.center{
+	text-align: center;
+	color: #f00;
+}
+body{
+	background-image: url('C:/Users/wang/Desktop/5.png');
+	background-repeat: no-repeat;
+	background-position: 70%  1%  ;
+}
+p{
+	text-indent: -5em;
+	padding-left: 5em;
+	text-align: justify-all;
+
+}
